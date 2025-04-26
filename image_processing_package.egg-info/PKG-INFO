@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: image-processing_package
+Version: 0.0.1
+Home-page: https://github.com/Hestrela/image-processing-package
+Author: Heitor Estrela de Andrade
+Author-email: heitorestrela13@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+
 # image_processing
 
 Description. 
